@@ -1,0 +1,23 @@
+* { margin : 0px ;
+    box-sizing: border-box;
+}
+
+div { padding: 5px ; border : 2px solid rgb(12, 12, 12) ;
+ }
+
+div.column { float : left; height: 500px ; }
+div.side { width : 15% ; }
+div.main { width : 70% ; height: 90% ; }
+div.footer { clear : both ; }
+img {
+   size: auto;
+}
+#photoholder{
+    border: 1px; color: red;
+}
+
+#photobox{
+display: inline-flex;
+height: 300px;
+width: 309px;
+}

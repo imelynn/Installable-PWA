@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Gena's Project</title>
+</head>
+<div id="heading">Gena 'Elynn' Hurst</div>
+<div id="homepage">Home Page</div>
+<div class="column side" id="columnleft">Who Am I?<br><br>I am everything and at the same time everything is nothing.  What I am not is an identity.  When it comes to describing who I am, I struggle with identity.  I feel as if we don't get to know who are we get to experience it.
+</div>
+<div class="column main" id="columnmiddle">I Get It, People Don't Know You, Until They Know What You Do:</b><br><br>Professionally, I left Corporate America over 10 years ago and I have enjoyed every single second of my freedom.  I wouldn't change it for all the riches in the world.  Personally, since leaving corporate, I have written and published 4 books, 3 of my own, and one I ghost wrote for a celebrity.  In addition to my love of writing, I also started a catering company that I had to shut down following a tragic accident.  The accident completely turned my world upside down and it took me a few years to recover.  What I've learned about tragedy is that its place in this world is not to break us but to teach lessons. You accept the lesson, pick up the pieces, and forge on in your quest for happiness and peace. <br><br>Prior to Covid-19, I launched my spice line, Peggy Gene's Gourmet Spice Blends while working as a restaurant consultant.  As we all know the restaurant industry was one of the hardest hit by the pandemic so that sent me in a different direction.  Since Covid, I have become certified in Digital Marketing, working freelance in both the non-profit and private sectors.  In my love of learning and exploring all my natural gifts and talents, I became a certified Usui Reiki Master and I am also currently pursuing a certification in Professional Life Coaching.<br><br>   <br>
+    <div id="photoholder">
+        <div id="photobox">
+<img src="./Me Purple.png" alt="daisy">
+</div>
+<div id="photobox">
+    <img src="./headshot.png" alt="daisy">
+    </div>
+<div id="photobox">
+    <img src="./Look Up.png" alt="daisy">
+    </div>
+    <div id="photobox">
+        <img src="./THE CONSCIOUSNESS PROJECT.png" alt="daisy">
+        </div>
+</div>
+</div>
+<div class="column side" id="columnright">Inspirational Quote<br><br>"Try not to become a man of success but rather try to become a man of value."<br><br> -Albert Einstein
+</div>
+<div class="footer" id="footer">Copyright, Gena Hurst, 2022</div>
